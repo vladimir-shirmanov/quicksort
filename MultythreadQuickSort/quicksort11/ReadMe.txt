@@ -1,27 +1,27 @@
 ========================================================================
-    CONSOLE APPLICATION : MultythreadQuickSort Project Overview
+    CONSOLE APPLICATION : quicksort11 Project Overview
 ========================================================================
 
-AppWizard has created this MultythreadQuickSort application for you.
+AppWizard has created this quicksort11 application for you.
 
 This file contains a summary of what you will find in each of the files that
-make up your MultythreadQuickSort application.
+make up your quicksort11 application.
 
 
-MultythreadQuickSort.vcxproj
+quicksort11.vcxproj
     This is the main project file for VC++ projects generated using an Application Wizard.
     It contains information about the version of Visual C++ that generated the file, and
     information about the platforms, configurations, and project features selected with the
     Application Wizard.
 
-MultythreadQuickSort.vcxproj.filters
+quicksort11.vcxproj.filters
     This is the filters file for VC++ projects generated using an Application Wizard. 
     It contains information about the association between the files in your project 
     and the filters. This association is used in the IDE to show grouping of files with
     similar extensions under a specific node (for e.g. ".cpp" files are associated with the
     "Source Files" filter).
 
-MultythreadQuickSort.cpp
+quicksort11.cpp
     This is the main application source file.
 
 /////////////////////////////////////////////////////////////////////////////
@@ -29,7 +29,7 @@ Other standard files:
 
 StdAfx.h, StdAfx.cpp
     These files are used to build a precompiled header (PCH) file
-    named MultythreadQuickSort.pch and a precompiled types file named StdAfx.obj.
+    named quicksort11.pch and a precompiled types file named StdAfx.obj.
 
 /////////////////////////////////////////////////////////////////////////////
 Other notes:
